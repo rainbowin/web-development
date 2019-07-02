@@ -1,10 +1,2 @@
-# coding with 
-( c )
-( c++ )  
-( c# ) 
-( python ) 
-( HTML - CSS - PHP - JAVA SCRIPT )
-( angular 6 )
-( ionic 3 & 4 )
-( drawing with blender - game development with unity engine)
-
+Graphic designer and Game Developer
+cinema 4D & Blender studio
